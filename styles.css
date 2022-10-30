@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+*{
+    font-family: 'Playfair Display', serif;
+}
+nav {
+    text-align: center;
+    margin-bottom: 75px;
+   font-size: 50px;
+}
+
+li {
+display: inline;
+margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: rgb(211, 71, 71);
+    text-decoration: none;
+    
+    }
+    a:visited {
+    color: rgb(211, 71, 71);
+    
+    }
+    a:hover {
+    color: rgb(109, 81, 187);
+    text-decoration: underline;
+    
+    }
+    a:active {
+    color: rgb(16, 139, 0);
+    
+    }
+.sectiona{
+    font-family: 'Playfair Display', serif;
+    font-size:50px ;
+}
+.sectiona{
+    border-top: 8px solid rgb(17, 16, 17);
+    border-bottom: 8px solid rgb(17, 16, 17);
+    padding: 20px;
+    text-align: center;
+    margin: 5% 20%;
+    border-radius: 12px;
+
+}
+@media(min-width:481px) and (max-width: 768px){
+    
+}
+@media(max-width: 480px){
+
+}
+
+img{
+    display: block;
+    margin: auto;
+    box-shadow: 5px 5px 5px 5px #777777;  
+}
+@media(min-width: 400px){
+
+}
+
+@media(max-width: 250px){
+    
+}
+.section2{
+    text-align: center;
+    border-radius: 10px 60px;
+    padding: 20px;
+margin-bottom: 20px;
+background-color: rgb(196, 160, 229); 
+}
+@media(min-width:400px){
+
+}
+@media(min-width:350px){
+    
+}
+@media(min-width:275px){
+    
+}
+
+.section1{
+    text-align: center;
+}
+@media(min-width:20px){
+
+}
+@media(min-width:15px ){
+
+}
+@media(max-width:12px){
+
+}
+div{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+.aboutme{
+    background-color: rgb(247, 141, 182);
+}
+.aboutme{
+    color: antiquewhite;
+}
+.aboutme{
+    font-weight: 400;
+    font-size: 2.0rem;
+    text-shadow: 2px 2px 4px #000;
+}
